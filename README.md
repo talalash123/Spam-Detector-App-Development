@@ -1,6 +1,5 @@
-This is a solid foundation for your project documentation. I have reformatted your notes into a professional, high-quality README.md file. I've added clear visual hierarchy, proper Markdown syntax for the file structure, and refined the descriptions to make it look GitHub-ready.
-
-🛡️ Spam Detector Android Application
+ Spam Detector Android Application
+ 
 An intelligent Android application designed to identify and filter spam messages using on-device machine learning. By leveraging a trained model, the app provides real-time classification to help users stay protected from unwanted or harmful content.
 
 1. Overview
